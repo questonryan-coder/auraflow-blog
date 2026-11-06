@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>AuraFlow Blog</title>
+  <link>https://questonryan-coder.github.io/auraflow-blog/</link>
+  <description>Notes on sleep sounds, focus, and sound that never loops — from AuraFlow, the live-generated soundscape app at auraflowfocus.com.</description>
+    <item>
+      <title>White Noise vs Brown Noise vs Pink Noise: Which One Is Actually Best for Focus?</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/white-noise-vs-brown-noise-vs-pink-noise/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/white-noise-vs-brown-noise-vs-pink-noise/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>White, brown, or pink noise — which is best for focus, study, or sleep? A plain-English breakdown of each sound, when to use it, and why looping hurts.</description>
+    </item>
+    <item>
+      <title>Sleep Sounds That Never Repeat</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/sleep-sounds-that-never-repeat/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/sleep-sounds-that-never-repeat/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Sleep sounds generated live in your browser — no recording, no loop point, nothing to repeat. Type anything and hear it built live; free to try, no account needed.</description>
+    </item>
+    <item>
+      <title>Rain Sounds for Sleeping</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/rain-sounds-for-sleeping/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/rain-sounds-for-sleeping/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Rain sounds for sleeping, generated live — no recording, no loop. Steady rain with optional soft thunder, free to try with no account, plus a sleep timer.</description>
+    </item>
+    <item>
+      <title>Pink Noise for Sleep</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/pink-noise-for-sleep/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/pink-noise-for-sleep/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Pink noise for sleep, generated live — softer than white noise, steadier than rain. Free to try with no account, with a sleep timer and mixable sounds.</description>
+    </item>
+    <item>
+      <title>Ocean Sounds for Sleep</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/ocean-sounds-for-sleep/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/ocean-sounds-for-sleep/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Ocean sounds for sleep, generated live — waves that never break the same way twice. Free to try with no account, plus a sleep timer and mixable sounds.</description>
+    </item>
+    <item>
+      <title>How to Stop Doomscrolling: The Sound-Based Focus Routine That Actually Works</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/how-to-stop-doomscrolling/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/how-to-stop-doomscrolling/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Doomscrolling is a stimulation habit, not a character flaw. Here is a practical sound-based routine — find your sound, set a timer, keep a streak — that replaces it.</description>
+    </item>
+    <item>
+      <title>Forest Sounds for Sleeping</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/forest-sounds-for-sleep/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/forest-sounds-for-sleep/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Night forest sounds for sleeping, generated live — wind, leaves, and a quiet forest floor, with no loop. Free to try with no account, plus a sleep timer.</description>
+    </item>
+    <item>
+      <title>Brown Noise for Sleep</title>
+      <link>https://questonryan-coder.github.io/auraflow-blog/brown-noise-for-sleep/</link>
+      <guid>https://questonryan-coder.github.io/auraflow-blog/brown-noise-for-sleep/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Brown noise for sleep, generated live — a deep, steady rumble with no loop point. Free to try with no account, with a sleep timer and mixable sounds.</description>
+    </item>
+</channel></rss>
