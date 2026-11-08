@@ -69,7 +69,7 @@ No. The sounds are generated live in your browser using the Web Audio API. There
 
 ### Can I play the sound all night?
 
-Yes. There is no track length to run out, so the sound keeps generating for as long as you leave it playing. If you'd rather it stopped, use the sleep timer to set a stop time.
+Yes. There is no track length to run out, so the sound keeps generating as long as you leave it playing. If you'd rather it stopped, use the sleep timer.
 
 ### Is it free to try?
 
