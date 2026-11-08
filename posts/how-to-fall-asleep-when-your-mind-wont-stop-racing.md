@@ -65,7 +65,7 @@ Choose a steady sound with no words and nothing to follow — rain, brown noise,
 
 ### Do AuraFlow sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file behind them and no loop point, so the sound does not restart or repeat — whether you listen for a short wind-down or all night.
+No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the sound does not restart or repeat — for a short wind-down or all night.
 
 ### Can I play the sound all night?
 
