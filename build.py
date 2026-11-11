@@ -48,6 +48,11 @@ th { background: #14142a; color: #f0f0f8; }
 .postlist a.title { font-size: 1.2rem; font-weight: 600; color: #eef; text-decoration: none; }
 .postlist a.title:hover { text-decoration: underline; }
 .postlist p { margin: 0.25rem 0; color: #b9b9cc; }
+.newest { margin-top: 2.4rem; padding: 1.1rem 1.2rem; background: #10101e; border: 1px solid #23233a; border-radius: 10px; }
+.newest h2 { margin: 0 0 0.5rem; font-size: 1.15rem; }
+.newest ul { list-style: none; padding: 0; margin: 0; }
+.newest li { margin: 0.35rem 0; }
+.newest .meta { margin-left: 0.4rem; }
 .cta { margin-top: 2.6rem; padding: 1.3rem 1.2rem; background: #11112a; border: 1px solid #2c2c50; border-radius: 10px; }
 .cta h2 { margin-top: 0; }
 .cta .btn { display: inline-block; margin: 0.5rem 0 0.8rem; padding: 0.55rem 1.1rem; background: #3d5afe; color: #fff; border-radius: 6px; text-decoration: none; font-weight: 600; }
@@ -226,7 +231,24 @@ def layout(title, description, canonical, body_html, extra_head=""):
 """
 
 
-def post_page(post, by_slug):
+def newest_block(posts, href_prefix, exclude_slug=None):
+    """Auto-generated 'Newest on the blog' block: latest 5 posts by date.
+
+    `posts` must already be sorted newest-first (main() guarantees this).
+    On post pages the current post is excluded and links are relative
+    ("../<slug>/"); on the index links are "<slug>/"."""
+    picks = [p for p in posts if p["slug"] != exclude_slug][:5]
+    if not picks:
+        return ""
+    lis = "".join(
+        f'<li><a href="{href_prefix}{p["slug"]}/">{html.escape(p["title"])}</a>'
+        f'<span class="meta">{p["date"]}</span></li>'
+        for p in picks
+    )
+    return f'<section class="newest"><h2>Newest on the blog</h2><ul>{lis}</ul></section>'
+
+
+def post_page(post, by_slug, posts):
     slug = post["slug"]
     url = f"{BASE}/{slug}/"
     article = {
@@ -276,6 +298,7 @@ def post_page(post, by_slug):
         f'<p class="meta">{post["date"]} · <a href="{BASE}/">AuraFlow Blog</a></p>\n'
         + render_markdown(post["body"])
         + cta
+        + newest_block(posts, "../", exclude_slug=slug)
     )
     return layout(post["title"], post["description"], url, body_html, extra)
 
@@ -292,6 +315,7 @@ def index_page(posts):
 <ul class="postlist">
 {''.join(items)}
 </ul>
+{newest_block(posts, "")}
 <section class="cta">
 <h2>Sound that never loops</h2>
 <p>AuraFlow generates every soundscape live in your browser — no recordings, no loop points. Type anything and hear it built.</p>
@@ -316,7 +340,7 @@ def main():
         outdir = os.path.join(ROOT, p["slug"])
         os.makedirs(outdir, exist_ok=True)
         with open(os.path.join(outdir, "index.html"), "w", encoding="utf-8") as f:
-            f.write(post_page(p, by_slug))
+            f.write(post_page(p, by_slug, posts))
         print(f"built {p['slug']}/index.html")
 
     with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
