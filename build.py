@@ -12,6 +12,7 @@ import os
 import re
 import secrets
 import sys
+import urllib.parse
 from datetime import datetime, timezone
 from email.utils import format_datetime
 
@@ -21,6 +22,7 @@ BASE = "https://blog.auraflowfocus.com"
 SITE_NAME = "AuraFlow Blog"
 SITE_DESC = "Notes on sleep sounds, focus, and sound that never loops — from AuraFlow, the live-generated soundscape app at auraflowfocus.com."
 APP_URL = "https://auraflowfocus.com"
+GROUP_URL = "https://www.facebook.com/groups/2187306908663017"
 
 CSS = """
 :root { color-scheme: dark; }
@@ -58,6 +60,10 @@ th { background: #14142a; color: #f0f0f8; }
 .cta .btn { display: inline-block; margin: 0.5rem 0 0.8rem; padding: 0.55rem 1.1rem; background: #3d5afe; color: #fff; border-radius: 6px; text-decoration: none; font-weight: 600; }
 .cta .btn:hover { background: #5876ff; color: #fff; }
 .cta .related { font-size: 0.95rem; color: #a9a9c2; }
+.share { margin-top: 2.2rem; font-size: 0.95rem; color: #a9a9c2; }
+.share .label { margin-right: 0.5rem; }
+.share a { margin-right: 0.9rem; text-decoration: none; }
+.share a:hover { text-decoration: underline; }
 footer.site { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #23233a; color: #8b8ba3; font-size: 0.9rem; }
 """
 
@@ -248,6 +254,24 @@ def newest_block(posts, href_prefix, exclude_slug=None):
     return f'<section class="newest"><h2>Newest on the blog</h2><ul>{lis}</ul></section>'
 
 
+def share_block(post, url):
+    """Quiet share-intent row for post pages: plain links, no scripts, no tracking."""
+    enc_url = urllib.parse.quote(url, safe="")
+    enc_title = urllib.parse.quote(post["title"], safe="")
+    enc_text = urllib.parse.quote(f"{post['title']} {url}", safe="")
+    links = [
+        ("X", f"https://twitter.com/intent/tweet?url={enc_url}&text={enc_title}"),
+        ("Facebook", f"https://www.facebook.com/sharer/sharer.php?u={enc_url}"),
+        ("Pinterest", f"https://pinterest.com/pin/create/button/?url={enc_url}&description={enc_title}"),
+        ("WhatsApp", f"https://wa.me/?text={enc_text}"),
+    ]
+    anchors = "".join(
+        f'<a href="{html.escape(href, quote=True)}" target="_blank" rel="noopener noreferrer">{name}</a>'
+        for name, href in links
+    )
+    return f'<p class="share"><span class="label">Share this post:</span>{anchors}</p>'
+
+
 def post_page(post, by_slug, posts):
     slug = post["slug"]
     url = f"{BASE}/{slug}/"
@@ -292,11 +316,13 @@ def post_page(post, by_slug, posts):
 <h2>Try it — free, no account</h2>
 <p>Type anything at AuraFlow and it builds that sound world live — rain over the ocean, a quiet forest, brown noise, whatever you name. Your first world is free to keep, and you can take a 60-second taste of the rest. Pro is $9/month or $79/year, with a 7-day free trial on the monthly plan.</p>
 <a class="btn" href="{APP_URL}">Open AuraFlow — free to try</a>
+<p>Talk about it in the <a href="{GROUP_URL}">AuraFlow Sleep &amp; Focus Community</a></p>
 {related_html}
 </section>"""
     body_html = (
         f'<p class="meta">{post["date"]} · <a href="{BASE}/">AuraFlow Blog</a></p>\n'
         + render_markdown(post["body"])
+        + share_block(post, url)
         + cta
         + newest_block(posts, "../", exclude_slug=slug)
     )
