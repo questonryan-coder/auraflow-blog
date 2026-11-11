@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://questonryan-coder.github.io/auraflow-blog/sitemap.xml
+Sitemap: https://blog.auraflowfocus.com/sitemap.xml

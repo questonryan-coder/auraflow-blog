@@ -17,7 +17,7 @@ from email.utils import format_datetime
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 POSTS_DIR = os.path.join(ROOT, "posts")
-BASE = "https://questonryan-coder.github.io/auraflow-blog"
+BASE = "https://blog.auraflowfocus.com"
 SITE_NAME = "AuraFlow Blog"
 SITE_DESC = "Notes on sleep sounds, focus, and sound that never loops — from AuraFlow, the live-generated soundscape app at auraflowfocus.com."
 APP_URL = "https://auraflowfocus.com"
