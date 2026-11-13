@@ -7,3 +7,4 @@
 - 2026-11-10 | Brown Noise for Focus: The Deep Rumble, Explained | https://questonryan-coder.github.io/auraflow-blog/brown-noise-for-focus-the-deep-rumble-explained/ | IndexNow: 200
 - 2026-11-11 | Why Does Rain Make You Sleepy? | https://blog.auraflowfocus.com/why-does-rain-make-you-sleepy/ | IndexNow: 202
 - 2026-11-12 | Sleep Sounds for Kids: Building a Calm Bedtime Routine | https://blog.auraflowfocus.com/sleep-sounds-for-kids-building-a-calm-bedtime-routine/ | IndexNow: 200
+- 2026-11-13 | The Best Sounds for Reading and Deep Work | https://blog.auraflowfocus.com/the-best-sounds-for-reading-and-deep-work/ | IndexNow: 200
