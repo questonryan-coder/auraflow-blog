@@ -10,3 +10,4 @@
 - 2026-11-13 | The Best Sounds for Reading and Deep Work | https://blog.auraflowfocus.com/the-best-sounds-for-reading-and-deep-work/ | IndexNow: 200
 - 2026-11-14 | Fireplace Sounds: Why a Crackling Fire Feels So Calming | https://blog.auraflowfocus.com/fireplace-sounds-why-a-crackling-fire-feels-so-calming/ | IndexNow: 200
 - 2026-11-15 | How Long Should Sleep Sounds Play — All Night or on a Timer? | https://blog.auraflowfocus.com/how-long-should-sleep-sounds-play-all-night-or-on-a-timer/ | IndexNow: 200
+- 2026-11-16 | White Noise Machines vs Sound Apps: An Honest Comparison | https://blog.auraflowfocus.com/white-noise-machines-vs-sound-apps-an-honest-comparison/ | IndexNow: 200
