@@ -12,3 +12,4 @@
 - 2026-11-15 | How Long Should Sleep Sounds Play — All Night or on a Timer? | https://blog.auraflowfocus.com/how-long-should-sleep-sounds-play-all-night-or-on-a-timer/ | IndexNow: 200
 - 2026-11-16 | White Noise Machines vs Sound Apps: An Honest Comparison | https://blog.auraflowfocus.com/white-noise-machines-vs-sound-apps-an-honest-comparison/ | IndexNow: 200
 - 2026-11-17 | Can Sound Help You Wake Up Gently? Dawn Soundscapes | https://blog.auraflowfocus.com/can-sound-help-you-wake-up-gently-dawn-soundscapes/ | IndexNow: 200
+- 2026-11-18 | Focus Sounds for Open Offices and Coworking Spaces | https://blog.auraflowfocus.com/focus-sounds-for-open-offices-and-coworking-spaces/ | IndexNow: 200
