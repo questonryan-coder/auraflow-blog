@@ -15,3 +15,4 @@
 - 2026-11-18 | Focus Sounds for Open Offices and Coworking Spaces | https://blog.auraflowfocus.com/focus-sounds-for-open-offices-and-coworking-spaces/ | IndexNow: 200
 - 2026-11-19 | What Are Binaural Beats? A Plain-English Guide | https://blog.auraflowfocus.com/what-are-binaural-beats-a-plain-english-guide/ | IndexNow: 200
 - 2026-11-20 | Rain on a Tent, Rain on a Roof, Rain on Leaves: Why the Surface Matters | https://blog.auraflowfocus.com/rain-on-a-tent-rain-on-a-roof-rain-on-leaves-why-the-surface-matters/ | IndexNow: 200
+- 2026-11-21 | Building a Bedtime Routine That Actually Sticks | https://blog.auraflowfocus.com/building-a-bedtime-routine-that-actually-sticks/ | IndexNow: 200
