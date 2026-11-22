@@ -80,7 +80,7 @@ For a wind-down routine, yes — familiarity helps the sound become a cue for sl
 
 ### Does the sound loop?
 
-No. The sounds are generated live in your browser, so there is no recording and no loop point. Your chosen sound world keeps generating for as long as you leave it playing, or until the sleep timer stops it.
+No. The sounds are generated live in your browser using the Web Audio API. Your chosen sound world keeps generating for as long as you leave it playing, or until the sleep timer stops it.
 
 ### Is AuraFlow free to try?
 

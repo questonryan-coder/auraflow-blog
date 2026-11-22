@@ -20,7 +20,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 POSTS_DIR = os.path.join(ROOT, "posts")
 BASE = "https://blog.auraflowfocus.com"
 SITE_NAME = "AuraFlow Blog"
-SITE_DESC = "Notes on sleep sounds, focus, and sound that never loops — from AuraFlow, the live-generated soundscape app at auraflowfocus.com."
+SITE_DESC = "Notes on sleep sounds, focus, and study — from AuraFlow, the live-generated soundscape app at auraflowfocus.com."
 APP_URL = "https://auraflowfocus.com"
 GROUP_URL = "https://www.facebook.com/groups/2187306908663017"
 
@@ -343,8 +343,8 @@ def index_page(posts):
 </ul>
 {newest_block(posts, "")}
 <section class="cta">
-<h2>Sound that never loops</h2>
-<p>AuraFlow generates every soundscape live in your browser — no recordings, no loop points. Type anything and hear it built.</p>
+<h2>Sound, generated live</h2>
+<p>AuraFlow generates every soundscape live in your browser with the Web Audio API. Type anything and hear it built.</p>
 <a class="btn" href="{APP_URL}">Open AuraFlow — free to try</a>
 </section>"""
     return layout(SITE_NAME, SITE_DESC, f"{BASE}/", body_html)

@@ -1,16 +1,16 @@
 ---
 title: Rain Sounds for Sleeping
 slug: rain-sounds-for-sleeping
-description: Rain sounds for sleeping, generated live — no recording, no loop. Steady rain with optional soft thunder, free to try with no account, plus a sleep timer.
+description: Rain sounds for sleeping, generated live in your browser. Steady rain with optional soft thunder, free to try with no account, plus a sleep timer.
 date: 2026-11-05
-related: sleep-sounds-that-never-repeat, brown-noise-for-sleep, forest-sounds-for-sleep
+related: sleep-sounds-generated-live, brown-noise-for-sleep, forest-sounds-for-sleep
 ---
 
 # Rain Sounds for Sleeping
 
 Rain is the most common first sleep sound for a reason: it is steady, textured, and easy to ignore — it fills a quiet room without asking for attention.
 
-AuraFlow rain is generated live in your browser, so it never reaches an end and never loops back to the same rainfall. The patter keeps changing the way real rain does. Type "rain" — or anything else — at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
+AuraFlow rain is generated live in your browser, built moment by moment as you listen. The patter keeps changing the way real rain does. Type "rain" — or anything else — at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
 
 ## What you'll hear
 
@@ -18,7 +18,7 @@ Steady rainfall, adjustable from light drizzle to heavier rain. Optional soft th
 
 ## Sleep or focus? Both
 
-At night, rain masks household sounds — footsteps, pipes, a TV in the next room — under one even layer. During the day, the same sound works as a deep-work backdrop; the Pomodoro timer pairs with it for work sessions. The engine behind it is the same one described in [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/).
+At night, rain masks household sounds — footsteps, pipes, a TV in the next room — under one even layer. During the day, the same sound works as a deep-work backdrop; the Pomodoro timer pairs with it for work sessions. The engine behind it is the same one described in [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/).
 
 ## How to play it tonight
 
@@ -30,7 +30,7 @@ At night, rain masks household sounds — footsteps, pipes, a TV in the next roo
 
 ### Does the rain sound loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file behind them and no loop point, so the rain doesn't restart or repeat — whether you listen for 20 minutes or all night.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen — whether you listen for 20 minutes or all night.
 
 ### Can I play rain sounds all night?
 

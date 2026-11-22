@@ -1,7 +1,7 @@
 ---
 title: Focus Sounds for Open Offices and Coworking Spaces
 slug: focus-sounds-for-open-offices-and-coworking-spaces
-description: Focus sounds for open offices and coworking spaces — steady, wordless sound that softens voices and office noise without pulling you into it, generated live with no loop.
+description: Focus sounds for open offices and coworking spaces — steady, wordless sound that softens voices and office noise without pulling you into it, generated live.
 date: 2026-11-18
 related: sounds-for-studying-what-actually-helps-you-concentrate, brown-noise-for-focus-the-deep-rumble-explained, the-best-sounds-for-reading-and-deep-work
 ---
@@ -57,7 +57,7 @@ Focus sound is a headphone tool. Played through speakers, it becomes someone els
 
 A recorded track on repeat can become its own distraction in a long session. Once your mind learns where the track restarts, part of your attention can start waiting for that point.
 
-AuraFlow sounds are generated live in your browser, so there is no recording and no loop point to learn. The world keeps building moment by moment, which helps it stay in the background.
+AuraFlow sounds are generated live in your browser using the Web Audio API. The world keeps building moment by moment, which helps it stay in the background.
 
 ## Try it
 
@@ -83,7 +83,7 @@ Low — just loud enough to soften distractions while you can still hear someone
 
 ### Do AuraFlow sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the sound does not restart or repeat.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen.
 
 ### Is it free to try?
 

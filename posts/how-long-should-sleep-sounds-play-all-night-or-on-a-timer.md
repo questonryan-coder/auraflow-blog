@@ -1,9 +1,9 @@
 ---
 title: How Long Should Sleep Sounds Play — All Night or on a Timer?
 slug: how-long-should-sleep-sounds-play-all-night-or-on-a-timer
-description: How long should sleep sounds play — all night or on a timer? A plain guide to choosing what suits your room, your routine, and how you like to wake, with live-generated sound that never loops.
+description: How long should sleep sounds play — all night or on a timer? A plain guide to choosing what suits your room, your routine, and how you like to wake, with live-generated sound.
 date: 2026-11-15
-related: rain-sounds-for-sleeping, sleep-sounds-that-never-repeat, brown-noise-for-sleep
+related: rain-sounds-for-sleeping, sleep-sounds-generated-live, brown-noise-for-sleep
 ---
 
 # How Long Should Sleep Sounds Play — All Night or on a Timer?
@@ -38,7 +38,7 @@ Notice your mornings, too. If the still-playing sound feels welcome, all night i
 
 ## Why generated sound suits both choices
 
-A recording ends when the track ends, and if it loops, the join can become familiar enough to notice. Live-generated sound has no track length and no loop point, so all night really can mean all night, and a timer becomes a choice rather than a limit — the same principle behind [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/).
+A recording ends when the track ends, and if it loops, the join can become familiar enough to notice. Live-generated sound has no track length, so all night really can mean all night, and a timer becomes a choice rather than a limit — the same principle behind [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/).
 
 ## How to try it tonight
 
@@ -63,7 +63,7 @@ Yes. Set the sleep timer and the sound stops at the time you choose. If you do n
 
 ### Do AuraFlow sleep sounds loop if they play all night?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the sound does not restart or repeat in a pattern you can learn, however long it plays.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen, however long it plays.
 
 ### How loud should sleep sounds be if they play all night?
 

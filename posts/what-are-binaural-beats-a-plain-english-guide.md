@@ -3,7 +3,7 @@ title: What Are Binaural Beats? A Plain-English Guide
 slug: what-are-binaural-beats-a-plain-english-guide
 description: Binaural beats explained in plain English — what they are, why they need headphones, what people use them for, and how they differ from a soundscape, with no hype.
 date: 2026-11-19
-related: white-noise-vs-brown-noise-vs-pink-noise, sounds-for-studying-what-actually-helps-you-concentrate, sleep-sounds-that-never-repeat
+related: white-noise-vs-brown-noise-vs-pink-noise, sounds-for-studying-what-actually-helps-you-concentrate, sleep-sounds-generated-live
 ---
 
 # What Are Binaural Beats? A Plain-English Guide
@@ -47,7 +47,7 @@ That minimalism is the appeal for some and the drawback for others. A tone can f
 
 ## A note on loops and live sound
 
-A short binaural recording on repeat can wear thin: once your mind learns the track, the restart becomes one more thing to notice — the same problem [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/) describes with looped sleep sounds generally. Sound generated live has no recording and no loop point, so the pulse simply continues for as long as you listen.
+A short binaural recording on repeat can wear thin: once your mind learns the track, the restart becomes one more thing to notice — the same problem [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/) describes with looped sleep sounds generally. Sound generated live is built as you listen, so the pulse simply continues for as long as you leave it playing.
 
 ## Try it
 

@@ -1,6 +1,6 @@
 # AuraFlow Blog
 
-Static blog for AuraFlow — sleep sounds, focus, and sound that never loops.
+Static blog for AuraFlow — sleep sounds, focus, and study.
 
 - Posts live in `posts/` as markdown with simple front matter.
 - `python3 build.py` renders the site (index, post pages, sitemap, robots, RSS feed, IndexNow key files) into the repo root.

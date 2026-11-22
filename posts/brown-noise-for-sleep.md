@@ -1,20 +1,20 @@
 ---
 title: Brown Noise for Sleep
 slug: brown-noise-for-sleep
-description: Brown noise for sleep, generated live — a deep, steady rumble with no loop point. Free to try with no account, with a sleep timer and mixable sounds.
+description: Brown noise for sleep, generated live — a deep, steady rumble. Free to try with no account, with a sleep timer and mixable sounds.
 date: 2026-11-05
-related: sleep-sounds-that-never-repeat, pink-noise-for-sleep, white-noise-vs-brown-noise-vs-pink-noise
+related: sleep-sounds-generated-live, pink-noise-for-sleep, white-noise-vs-brown-noise-vs-pink-noise
 ---
 
 # Brown Noise for Sleep
 
 Brown noise is a deep, low rumble — closer to a distant waterfall than to static. Many listeners choose it at night because low frequencies are good at masking the sounds that carry through walls: voices, traffic, appliances.
 
-AuraFlow brown noise is generated live in your browser, so the rumble never loops and never restarts. Type "brown noise" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
+AuraFlow brown noise is generated live in your browser, a deep rumble built moment by moment as you listen. Type "brown noise" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
 
 ## What you'll hear
 
-A continuous, deep, even rumble with no hiss on top and no pattern to learn. It stays the same in character all night while never repeating the same audio — steady, not looped.
+A continuous, deep, even rumble with no hiss on top and no pattern to learn. It stays the same in character all night — steady, generated live.
 
 ## Brown noise vs pink noise vs white noise
 
@@ -30,7 +30,7 @@ White noise is bright and hissy — all frequencies at equal intensity. Pink noi
 
 ### Does brown noise loop?
 
-No. It is generated live in your browser using the Web Audio API, so there is no file and no loop point — the sound doesn't restart or repeat, whether you listen for 20 minutes or all night.
+No. It is generated live in your browser using the Web Audio API, built moment by moment as you listen, whether you listen for 20 minutes or all night.
 
 ### Can I play it all night?
 

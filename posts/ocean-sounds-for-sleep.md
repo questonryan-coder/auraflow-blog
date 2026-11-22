@@ -1,16 +1,16 @@
 ---
 title: Ocean Sounds for Sleep
 slug: ocean-sounds-for-sleep
-description: Ocean sounds for sleep, generated live — waves that never break the same way twice. Free to try with no account, plus a sleep timer and mixable sounds.
+description: Ocean sounds for sleep — waves generated live in your browser. Free to try with no account, plus a sleep timer and mixable sounds.
 date: 2026-11-05
-related: sleep-sounds-that-never-repeat, rain-sounds-for-sleeping, forest-sounds-for-sleep
+related: sleep-sounds-generated-live, rain-sounds-for-sleeping, forest-sounds-for-sleep
 ---
 
 # Ocean Sounds for Sleep
 
 Ocean waves are a classic sleep sound because they breathe: a slow rise, a break, a wash back out. On a recording, though, that breathing repeats — the same wave, on the same schedule, all night.
 
-AuraFlow ocean sound is generated live, so each wave is built as you hear it. The rhythm stays wave-like; the waves themselves never repeat. Type "ocean" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
+AuraFlow ocean sound is generated live, so each wave is built as you hear it. The rhythm stays wave-like while the sound builds moment by moment. Type "ocean" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
 
 ## What you'll hear
 
@@ -18,7 +18,7 @@ Rolling waves at a slow, even pace, with no music and no voices. The pace stays 
 
 ## Sleep or focus? Both
 
-At night, waves mask household sound under a slow rhythm many listeners find easy to drift off to. During the day, the same sound works as a steady work backdrop with the Pomodoro timer. More on why the no-loop part matters in [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/).
+At night, waves mask household sound under a slow rhythm many listeners find easy to drift off to. During the day, the same sound works as a steady work backdrop with the Pomodoro timer. More on how live generation works in [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/).
 
 ## How to play it tonight
 
@@ -30,7 +30,7 @@ At night, waves mask household sound under a slow rhythm many listeners find eas
 
 ### Do the ocean sounds loop?
 
-No. They are generated live in your browser using the Web Audio API, so there is no file and no loop point, and no wave repeats exactly — whether you listen for 20 minutes or all night.
+No. They are generated live in your browser using the Web Audio API, built moment by moment as you listen — whether you listen for 20 minutes or all night.
 
 ### Can I play it all night?
 

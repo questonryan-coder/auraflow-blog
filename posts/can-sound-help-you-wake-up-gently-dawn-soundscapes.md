@@ -82,7 +82,7 @@ Low — just loud enough to notice without effort, like sound from outside the r
 
 ### Do dawn soundscapes loop?
 
-AuraFlow sounds do not. They are generated live in your browser using the Web Audio API, so there is no audio file and no loop point — the birdsong and rain keep changing like a real morning.
+AuraFlow sounds do not. They are generated live in your browser using the Web Audio API — the birdsong and rain keep changing like a real morning.
 
 ### Is AuraFlow free to try?
 

@@ -1,7 +1,7 @@
 ---
 title: Brown Noise for Focus: The Deep Rumble, Explained
 slug: brown-noise-for-focus-the-deep-rumble-explained
-description: Brown noise for focus, explained — a deep, low rumble that masks voices and household noise without asking for attention, generated live with no loop.
+description: Brown noise for focus, explained — a deep, low rumble that masks voices and household noise without asking for attention, generated live.
 date: 2026-11-10
 related: brown-noise-for-sleep, white-noise-vs-brown-noise-vs-pink-noise, sounds-for-studying-what-actually-helps-you-concentrate
 ---
@@ -47,7 +47,7 @@ For reading or writing, plain brown noise is often the best start, because words
 
 A recorded noise track can quietly work against you. Listen long enough and your brain learns it — where it swells, where it dips, and where it jumps back to the beginning. Once that happens, part of your attention is tracking the recording instead of the work.
 
-AuraFlow sounds are generated live in your browser, so there is no recording and no loop point to learn. The rumble is built moment by moment as you listen, steady without ever restarting — one less pattern for your mind to solve during a long stretch of deep work.
+AuraFlow sounds are generated live in your browser using the Web Audio API. The rumble is built moment by moment as you listen — one less pattern for your mind to solve during a long stretch of deep work.
 
 ## Try it
 
@@ -69,7 +69,7 @@ Low — just loud enough to soften the sounds around you. Brown noise gets heavy
 
 ### Does brown noise loop on AuraFlow?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file behind them and no loop point, so the rumble does not restart or repeat, however long your session runs.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen, however long your session runs.
 
 ### Is brown noise free?
 

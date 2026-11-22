@@ -3,14 +3,14 @@ title: Pink Noise for Sleep
 slug: pink-noise-for-sleep
 description: Pink noise for sleep, generated live — softer than white noise, steadier than rain. Free to try with no account, with a sleep timer and mixable sounds.
 date: 2026-11-05
-related: sleep-sounds-that-never-repeat, brown-noise-for-sleep, white-noise-vs-brown-noise-vs-pink-noise
+related: sleep-sounds-generated-live, brown-noise-for-sleep, white-noise-vs-brown-noise-vs-pink-noise
 ---
 
 # Pink Noise for Sleep
 
 Pink noise sounds like steady rainfall: softer than white noise, with the low frequencies a little louder than the high ones. Many listeners pick it when white noise feels too harsh and brown noise feels too deep.
 
-AuraFlow pink noise is generated live in your browser — no recording, no loop, no restart. Type "pink noise" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
+AuraFlow pink noise is generated live in your browser with the Web Audio API. Type "pink noise" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
 
 ## What you'll hear
 
@@ -30,7 +30,7 @@ White noise: bright, even hiss, all frequencies equal. Pink noise: the same idea
 
 ### Does pink noise loop?
 
-No. It is generated live in your browser using the Web Audio API, so there is no file and no loop point — the sound doesn't restart or repeat, whether you listen for 20 minutes or all night.
+No. It is generated live in your browser using the Web Audio API, built moment by moment as you listen, whether you listen for 20 minutes or all night.
 
 ### Can I play it all night?
 

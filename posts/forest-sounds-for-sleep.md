@@ -1,16 +1,16 @@
 ---
 title: Forest Sounds for Sleeping
 slug: forest-sounds-for-sleep
-description: Night forest sounds for sleeping, generated live — wind, leaves, and a quiet forest floor, with no loop. Free to try with no account, plus a sleep timer.
+description: Night forest sounds for sleeping, generated live — wind, leaves, and a quiet forest floor. Free to try with no account, plus a sleep timer.
 date: 2026-11-05
-related: sleep-sounds-that-never-repeat, rain-sounds-for-sleeping, ocean-sounds-for-sleep
+related: sleep-sounds-generated-live, rain-sounds-for-sleeping, ocean-sounds-for-sleep
 ---
 
 # Forest Sounds for Sleeping
 
 A night forest is quiet without being silent: wind moving through leaves, the occasional distant sound, nothing sudden. That gentle variation is why many listeners use forest ambience at bedtime — it gives the ear something soft to rest on instead of a silent room.
 
-AuraFlow forest sound is generated live, so the forest never replays the same minute twice. Type "forest" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
+AuraFlow forest sound is generated live, built moment by moment as you listen. Type "forest" at [auraflowfocus.com](https://auraflowfocus.com) and hear it built live, free to try with no account.
 
 ## What you'll hear
 
@@ -18,7 +18,7 @@ Wind and leaf movement as the bed, kept low and even. No sudden animal calls or 
 
 ## Sleep or focus? Both
 
-At night, forest ambience masks a quiet house without feeling artificial. During the day, the same sound works as a calm work backdrop with the Pomodoro timer. It runs on the same live engine as everything in [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/).
+At night, forest ambience masks a quiet house without feeling artificial. During the day, the same sound works as a calm work backdrop with the Pomodoro timer. It runs on the same live engine as everything in [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/).
 
 ## How to play it tonight
 
@@ -30,7 +30,7 @@ At night, forest ambience masks a quiet house without feeling artificial. During
 
 ### Does the forest sound loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no recording behind them and no loop point, so the forest doesn't restart or repeat — whether you listen for 20 minutes or all night.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen — whether you listen for 20 minutes or all night.
 
 ### Can I play it all night?
 

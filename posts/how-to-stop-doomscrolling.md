@@ -3,7 +3,7 @@ title: How to Stop Doomscrolling: The Sound-Based Focus Routine That Actually Wo
 slug: how-to-stop-doomscrolling
 description: Doomscrolling is a stimulation habit, not a character flaw. Here is a practical sound-based routine — find your sound, set a timer, keep a streak — that replaces it.
 date: 2026-11-05
-related: white-noise-vs-brown-noise-vs-pink-noise, sleep-sounds-that-never-repeat
+related: white-noise-vs-brown-noise-vs-pink-noise, sleep-sounds-generated-live
 ---
 
 # How to Stop Doomscrolling: The Sound-Based Focus Routine That Actually Works
@@ -43,7 +43,7 @@ Some practical guardrails that help:
 - **Same time, same sound.** Anchor the routine to an existing moment — first coffee, after lunch — and reuse your anchor soundscape. Consistency beats variety while the habit forms.
 - **Shrink the block, not the habit.** On a rough day, a 10-minute block counts. Protecting the streak matters more than the block length.
 - **Charge your phone elsewhere.** Distance is the most reliable blocker ever invented. Every step between you and the phone is a decision point where the routine can win.
-- **Replace the wind-down too.** Doomscrolling peaks at night for a lot of people. A sleep timer with rain or pink noise gives your hands something to start and your brain something to listen to in that last half hour. The [sleep sounds guide](../sleep-sounds-that-never-repeat/) covers the night side of the same engine.
+- **Replace the wind-down too.** Doomscrolling peaks at night for a lot of people. A sleep timer with rain or pink noise gives your hands something to start and your brain something to listen to in that last half hour. The [sleep sounds guide](../sleep-sounds-generated-live/) covers the night side of the same engine.
 
 ## What This Routine Is (and Is Not)
 

@@ -1,9 +1,9 @@
 ---
 title: Why Does Rain Make You Sleepy?
 slug: why-does-rain-make-you-sleepy
-description: Why does rain make you sleepy? The steady sound, softer light, and familiar bedtime routine behind that drowsy feeling — and how to use rain sound at night, generated live with no loop.
+description: Why does rain make you sleepy? The steady sound, softer light, and familiar bedtime routine behind that drowsy feeling — and how to use rain sound at night, generated live.
 date: 2026-11-11
-related: rain-sounds-for-sleeping, thunderstorm-sounds-for-sleep, sleep-sounds-that-never-repeat
+related: rain-sounds-for-sleeping, thunderstorm-sounds-for-sleep, sleep-sounds-generated-live
 ---
 
 # Why Does Rain Make You Sleepy?
@@ -42,7 +42,7 @@ You do not need real weather at bedtime. The steady layer, the masking, and the 
 
 Format matters here. A short recorded track can undermine that steadiness — listen long enough and you may notice where it loops back to its beginning. Once part of your mind is tracking the recording, it is no longer fully resting.
 
-AuraFlow rain is generated live in your browser, so there is no recording and no loop point to catch. As [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/) explains, the world is built moment by moment as you listen — the patter keeps varying in small, natural ways without ever restarting. It stays background, which is exactly what a sleep sound needs to do.
+AuraFlow rain is generated live in your browser using the Web Audio API. As [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/) explains, the world is built moment by moment as you listen — the patter keeps varying in small, natural ways as it builds. It stays background, which is exactly what a sleep sound needs to do.
 
 ## How to play it tonight
 
@@ -73,7 +73,7 @@ No. Low is better — just loud enough to sit underneath the room and soften oth
 
 ### Do AuraFlow rain sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file behind them and no loop point, so the rain does not restart or repeat, whether you listen for a short while or all night.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen, whether you listen for a short while or all night.
 
 ### Is rain free on AuraFlow?
 

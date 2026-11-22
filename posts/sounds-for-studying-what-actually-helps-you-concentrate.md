@@ -1,9 +1,9 @@
 ---
 title: Sounds for Studying: What Actually Helps You Concentrate
 slug: sounds-for-studying-what-actually-helps-you-concentrate
-description: Sounds for studying — what actually helps you concentrate: steady, wordless sound that masks distractions without asking for attention, generated live with no loop.
+description: Sounds for studying — what actually helps you concentrate: steady, wordless sound that masks distractions without asking for attention, generated live.
 date: 2026-11-09
-related: white-noise-vs-brown-noise-vs-pink-noise, rain-sounds-for-sleeping, sleep-sounds-that-never-repeat
+related: white-noise-vs-brown-noise-vs-pink-noise, rain-sounds-for-sleeping, sleep-sounds-generated-live
 ---
 
 # Sounds for Studying: What Actually Helps You Concentrate
@@ -49,7 +49,7 @@ However you set it up, the offer is the same. Type anything at auraflowfocus.com
 
 A recorded track can quietly work against you once your brain learns it. After enough repetitions, you begin to recognise where a sound swells or where the loop returns to its start — and part of your attention tracks the recording instead of the work.
 
-AuraFlow sounds are generated live in your browser, so there is no recording and no loop point to learn. As [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/) explains, the world is built moment by moment as you listen. The rain keeps varying in small ways and the noise stays even without restarting, so there is no pattern for your mind to solve. The background stays background, for as long as the session lasts.
+AuraFlow sounds are generated live in your browser using the Web Audio API. As [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/) explains, the world is built moment by moment as you listen. The rain keeps varying in small ways and the noise stays even as it builds, so there is no pattern for your mind to solve. The background stays background, for as long as the session lasts.
 
 ## FAQ
 
@@ -67,7 +67,7 @@ Low — just loud enough to soften distractions. If you catch yourself listening
 
 ### Do AuraFlow sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the sound does not restart or repeat.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen.
 
 ### Is it free to try?
 

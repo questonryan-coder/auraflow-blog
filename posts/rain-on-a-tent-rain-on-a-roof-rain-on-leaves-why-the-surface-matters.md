@@ -67,7 +67,7 @@ Yes. A rain layer pairs well with a deeper bed underneath it, or with soft, dist
 
 ### Does the rain sound loop?
 
-No. The sounds are generated live in your browser, so there is no recording and no loop point. The patter keeps changing the way real rain does, whether you listen for a short wind-down or all night.
+No. The sounds are generated live in your browser using the Web Audio API. The patter keeps changing the way real rain does, whether you listen for a short wind-down or all night.
 
 ### Is it free to try on AuraFlow?
 

@@ -1,16 +1,16 @@
 ---
 title: Thunderstorm Sounds for Sleep: Why Rain and Thunder Help You Drift Off
 slug: thunderstorm-sounds-for-sleep
-description: Thunderstorm sounds for sleep, generated live — steady rain with soft, distant thunder and no loop. Free to try with no account, plus a sleep timer.
+description: Thunderstorm sounds for sleep, generated live — steady rain with soft, distant thunder. Free to try with no account, plus a sleep timer.
 date: 2026-11-06
-related: rain-sounds-for-sleeping, sleep-sounds-that-never-repeat, brown-noise-for-sleep
+related: rain-sounds-for-sleeping, sleep-sounds-generated-live, brown-noise-for-sleep
 ---
 
 # Thunderstorm Sounds for Sleep: Why Rain and Thunder Help You Drift Off
 
 A thunderstorm, heard from indoors, is one of the coziest sounds there is. Rain steadies the room, thunder rolls in from far away and fades, and the world outside feels held at a comfortable distance. For many listeners, that combination is easier to fall asleep to than silence — and easier than rain on its own.
 
-AuraFlow thunderstorm sounds are generated live in your browser, so there is no recording and no loop point. The rain keeps falling and the thunder keeps changing the way a real storm does. Type anything at [auraflowfocus.com](https://auraflowfocus.com) and it builds that sound world live — type "thunderstorm" to start here — free to try, no account.
+AuraFlow thunderstorm sounds are generated live in your browser with the Web Audio API. The rain keeps falling and the thunder keeps changing the way a real storm does. Type anything at [auraflowfocus.com](https://auraflowfocus.com) and it builds that sound world live — type "thunderstorm" to start here — free to try, no account.
 
 ## What you'll hear
 
@@ -26,11 +26,11 @@ Thunder does the slow work. A distant rumble is deep and low, closer in characte
 
 Together, they recreate a feeling many people know from nights spent listening to weather from a warm bed: outside is loud, inside is safe, and there is nothing you need to do until morning. It is simply a familiar, comforting setting, and familiar settings are easier to relax into.
 
-## A thunderstorm that never repeats
+## A thunderstorm, generated live
 
 A recorded storm always gives itself away in the end. The same thunderclap returns, the same burst of rain hits the same way, and once your brain has learned the recording, it starts listening for the repeat instead of drifting off. That is the problem with any loop, however long the track is.
 
-Generated sound has no loop to learn. As [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/) explains, AuraFlow builds the sound moment by moment in your browser, so the storm you hear at the start of the night is not replayed later. The rain varies, the thunder varies, and there is no seam where the track restarts. If a storm is your sound, this is the version that stays a storm all night instead of becoming a recording you know by heart.
+As [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/) explains, AuraFlow builds the sound moment by moment in your browser. The rain varies, the thunder varies, and the storm keeps building for as long as you listen. If a storm is your sound, this is the version that stays a storm all night instead of becoming a recording you know by heart.
 
 ## How to play it tonight
 
@@ -49,7 +49,7 @@ However you start, the offer is the same. You get one free world to keep forever
 
 ### Does the thunderstorm sound loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file behind them and no loop point, so the rain and thunder don't restart or repeat — whether you listen for a short wind-down or all night.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen — whether you listen for a short wind-down or all night.
 
 ### Is the thunder loud or sudden?
 

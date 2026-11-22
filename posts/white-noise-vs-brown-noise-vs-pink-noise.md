@@ -3,7 +3,7 @@ title: White Noise vs Brown Noise vs Pink Noise: Which One Is Actually Best for 
 slug: white-noise-vs-brown-noise-vs-pink-noise
 description: White, brown, or pink noise — which is best for focus, study, or sleep? A plain-English breakdown of each sound, when to use it, and why looping hurts.
 date: 2026-11-05
-related: brown-noise-for-sleep, pink-noise-for-sleep, sleep-sounds-that-never-repeat
+related: brown-noise-for-sleep, pink-noise-for-sleep, sleep-sounds-generated-live
 ---
 
 # White Noise vs Brown Noise vs Pink Noise: Which One Is Actually Best for Focus?
@@ -52,7 +52,7 @@ But here is the honest truth: individual preference beats theory every time. Ple
 
 Most noise tracks online are short recordings — often 30 seconds to 10 minutes — looped for hours. The trouble is, your brain is a pattern-detection machine. Once it catches the loop point (a faint click, the rain pattern repeating, the wave cycle starting over), part of your attention keeps returning to it. The sound that was supposed to disappear into the background keeps quietly interrupting you.
 
-Real focus audio should never repeat. That is why AuraFlow generates its soundscapes in real time using the Web Audio API. The rain, brown noise, ocean, and the rest of the library are synthesized live in your browser, so there is no loop to catch — the sound simply never cycles back. Your brain stops tracking it, and it becomes true background. We go deeper on this in [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/).
+That is why AuraFlow generates its soundscapes in real time using the Web Audio API. The rain, brown noise, ocean, and the rest of the library are synthesized live in your browser, built moment by moment as you listen. Your brain stops tracking it, and it becomes true background. We go deeper on this in [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/).
 
 ## Quick Recommendations by Situation
 

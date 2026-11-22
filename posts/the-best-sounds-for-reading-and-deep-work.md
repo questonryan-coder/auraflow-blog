@@ -1,7 +1,7 @@
 ---
 title: The Best Sounds for Reading and Deep Work
 slug: the-best-sounds-for-reading-and-deep-work
-description: The best sounds for reading and deep work — steady, wordless sound that masks distractions without pulling you out of the page, generated live with no loop.
+description: The best sounds for reading and deep work — steady, wordless sound that masks distractions without pulling you out of the page, generated live.
 date: 2026-11-13
 related: sounds-for-studying-what-actually-helps-you-concentrate, brown-noise-for-focus-the-deep-rumble-explained, rain-sounds-for-sleeping
 ---
@@ -55,7 +55,7 @@ Match it to the task second. Reading and writing usually do best with the plaine
 
 A recorded track can work against deep work once your brain learns it. After enough repetitions you recognise where the loop returns to its start — and part of your attention tracks the recording instead of the page.
 
-AuraFlow sounds are generated live in your browser, so there is no recording and no loop point to learn. The world is built moment by moment as you listen, so there is no pattern for your mind to solve and the background stays background.
+AuraFlow sounds are generated live in your browser using the Web Audio API. The world is built moment by moment as you listen, so there is no pattern for your mind to solve and the background stays background.
 
 ## Try it
 
@@ -81,7 +81,7 @@ Low — just loud enough to soften distractions. If you can pick out details ins
 
 ### Do AuraFlow sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the sound does not restart or repeat.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen.
 
 ### Is it free to try?
 

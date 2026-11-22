@@ -1,9 +1,9 @@
 ---
 title: Sleep Sounds for Kids: Building a Calm Bedtime Routine
 slug: sleep-sounds-for-kids-building-a-calm-bedtime-routine
-description: Sleep sounds for kids and how to build a calm bedtime routine around them — steady, gentle sound as a nightly signal, generated live with no loop.
+description: Sleep sounds for kids and how to build a calm bedtime routine around them — steady, gentle sound as a nightly signal, generated live.
 date: 2026-11-12
-related: rain-sounds-for-sleeping, forest-sounds-for-sleep, sleep-sounds-that-never-repeat
+related: rain-sounds-for-sleeping, forest-sounds-for-sleep, sleep-sounds-generated-live
 ---
 
 # Sleep Sounds for Kids: Building a Calm Bedtime Routine
@@ -46,7 +46,7 @@ Then protect the quiet that follows. Once the sound is on, keep any returns brie
 
 A short recorded track can quietly work against a bedtime routine. Night after night, a child may learn exactly where a sound swells or where the track loops back to its beginning. Once part of their mind is waiting for that moment, the sound is no longer background — it is something to track.
 
-AuraFlow sounds are generated live in your browser, so there is no recording and no loop point to learn. As [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/) explains, the world is built moment by moment as you listen. The rain keeps varying in small, gentle ways without ever restarting, so there is no pattern for a curious mind to solve.
+AuraFlow sounds are generated live in your browser using the Web Audio API. As [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/) explains, the world is built moment by moment as you listen. The rain keeps varying in small, gentle ways as it builds, so there is no pattern for a curious mind to solve.
 
 ## How to play it tonight
 
@@ -77,7 +77,7 @@ At the same point each night, as the final step — after the story, with lights
 
 ### Do AuraFlow sleep sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the sound does not restart or repeat.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen.
 
 ### Is AuraFlow free to try for kids' bedtime sounds?
 

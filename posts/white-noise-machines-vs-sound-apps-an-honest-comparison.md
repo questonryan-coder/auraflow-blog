@@ -3,7 +3,7 @@ title: White Noise Machines vs Sound Apps: An Honest Comparison
 slug: white-noise-machines-vs-sound-apps-an-honest-comparison
 description: White noise machines vs sound apps — an honest comparison of what each does well, what each makes harder, and how to choose for sleep and focus at home or away.
 date: 2026-11-16
-related: white-noise-vs-brown-noise-vs-pink-noise, sleep-sounds-that-never-repeat, how-long-should-sleep-sounds-play-all-night-or-on-a-timer
+related: white-noise-vs-brown-noise-vs-pink-noise, sleep-sounds-generated-live, how-long-should-sleep-sounds-play-all-night-or-on-a-timer
 ---
 
 # White Noise Machines vs Sound Apps: An Honest Comparison
@@ -32,9 +32,9 @@ An app's range comes with the phone attached. Notifications, bright screens, and
 
 ## Loops, variety, and why generated sound is different
 
-Many machines and many apps both rely on recordings. A recording has a shape, and a loop has a join. Listen long enough in a quiet room and your ear can learn it — the problem explored in [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/).
+Many machines and many apps both rely on recordings. A recording has a shape, and a loop has a join. Listen long enough in a quiet room and your ear can learn it — the problem explored in [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/).
 
-AuraFlow is different on that one point: the sound is generated live in your browser, so there is no audio file and no loop point to learn. That does not make every app better than every machine — a looping recording and a live-generated soundscape solve the repeat problem in opposite ways.
+AuraFlow is different on that one point: the sound is generated live in your browser using the Web Audio API. That does not make every app better than every machine — a looping recording and a live-generated soundscape solve the repeat problem in opposite ways.
 
 ## At home, and away from home
 
@@ -67,7 +67,7 @@ Neither is better for everyone. A machine is simpler and keeps the phone out of 
 
 ### Do sound apps loop?
 
-Some do, if they play a recording. AuraFlow sounds do not: they are generated live in your browser using the Web Audio API, so there is no audio file and no loop point, however long you listen.
+Some do, if they play a recording. AuraFlow sounds do not: they are generated live in your browser using the Web Audio API, built moment by moment, however long you listen.
 
 ### Can I use a sound app without looking at my phone all night?
 

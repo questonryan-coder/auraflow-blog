@@ -1,9 +1,9 @@
 ---
 title: Fireplace Sounds: Why a Crackling Fire Feels So Calming
 slug: fireplace-sounds-why-a-crackling-fire-feels-so-calming
-description: Fireplace sounds, explained — why a crackling fire feels so calming, and how to use steady hearth sound for sleep, reading, and quiet evenings, generated live with no loop.
+description: Fireplace sounds, explained — why a crackling fire feels so calming, and how to use steady hearth sound for sleep, reading, and quiet evenings, generated live.
 date: 2026-11-14
-related: rain-sounds-for-sleeping, thunderstorm-sounds-for-sleep, sleep-sounds-that-never-repeat
+related: rain-sounds-for-sleeping, thunderstorm-sounds-for-sleep, sleep-sounds-generated-live
 ---
 
 # Fireplace Sounds: Why a Crackling Fire Feels So Calming
@@ -46,7 +46,7 @@ For reading and quiet work, a fire softens distractions while feeling less stark
 
 A recording of a fire has a fixed shape. The same distinctive pop and log shift come back around, and once you have heard it often enough, part of your mind starts to recognise the pattern and wait for it. A sound you are waiting on is no longer background.
 
-AuraFlow sounds are generated live in your browser, so there is no recording and no loop point to learn. The crackle is built moment by moment, keeping it irregular the way a real fire is — the same principle behind [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/).
+AuraFlow sounds are generated live in your browser using the Web Audio API. The crackle is built moment by moment, keeping it irregular the way a real fire is — the same principle behind [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/).
 
 ## How to play it tonight
 
@@ -75,7 +75,7 @@ They can be, especially if plain noise feels too stark. If the crackles draw you
 
 ### Do AuraFlow fireplace sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the crackle does not restart or repeat in a pattern you can learn.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen.
 
 ### Can I mix a fireplace with other sounds?
 

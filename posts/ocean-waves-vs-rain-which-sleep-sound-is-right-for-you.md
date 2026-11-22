@@ -10,7 +10,7 @@ related: ocean-sounds-for-sleep, rain-sounds-for-sleeping, thunderstorm-sounds-f
 
 Ocean waves and rain are two of the classic sleep sounds, and at first they can seem interchangeable — both are water, both are gentle, both fill a quiet room. Listen for a few minutes, though, and they feel very different. One moves in a slow rhythm. The other stays steady. Which one helps you drift off depends less on which is "better" in general, and more on your room and your habits.
 
-At AuraFlow, both are generated live in your browser, so there is no recording and no loop. Type anything at [auraflowfocus.com](https://auraflowfocus.com) and it builds that sound world live — type "ocean" or "rain" to start with either one — free to try, no account.
+At AuraFlow, both are generated live in your browser with the Web Audio API. Type anything at [auraflowfocus.com](https://auraflowfocus.com) and it builds that sound world live — type "ocean" or "rain" to start with either one — free to try, no account.
 
 ## What you'll hear in each
 
@@ -53,7 +53,7 @@ However you start, the offer is the same. You get one free world to keep forever
 
 ### Do ocean waves or rain loop on AuraFlow?
 
-No. Both sounds are generated live in your browser using the Web Audio API. There is no audio file behind them and no loop point, so the waves do not repeat on a schedule and the rain does not restart — whether you listen for a short wind-down or all night.
+No. Both sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen — whether you listen for a short wind-down or all night.
 
 ### Which is better for masking noise, ocean or rain?
 

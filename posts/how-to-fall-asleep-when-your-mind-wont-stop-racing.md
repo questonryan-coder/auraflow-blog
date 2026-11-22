@@ -3,7 +3,7 @@ title: How to Fall Asleep When Your Mind Won't Stop Racing
 slug: how-to-fall-asleep-when-your-mind-wont-stop-racing
 description: How to fall asleep when your mind won't stop racing — why thoughts get louder at night, and how steady, live-generated sound can give your mind a calmer place to rest.
 date: 2026-11-08
-related: rain-sounds-for-sleeping, sleep-sounds-that-never-repeat, brown-noise-for-sleep
+related: rain-sounds-for-sleeping, sleep-sounds-generated-live, brown-noise-for-sleep
 ---
 
 # How to Fall Asleep When Your Mind Won't Stop Racing
@@ -38,11 +38,11 @@ Dim the lights and put your phone on charge away from the bed. If you use your p
 
 Then let the sound do the steady work. You do not need to listen actively. If a thought returns, that is normal. Notice it, let it pass, and return your attention loosely to the sound that is still there.
 
-## Why a sound that never repeats can help
+## Why live-generated sound can help
 
 A recorded track can become part of the problem once you know it well. Your brain learns where the loop restarts and starts listening for that moment instead of resting.
 
-AuraFlow sounds are generated live in your browser, so there is no recording and no loop point to learn. As [Sleep Sounds That Never Repeat](../sleep-sounds-that-never-repeat/) explains, the world is built moment by moment as you listen, so the rain keeps varying in small ways that never quite repeat. For a mind that loves patterns, there is no pattern here to solve — just a steady place to settle.
+AuraFlow sounds are generated live in your browser using the Web Audio API. As [Sleep Sounds, Generated Live](../sleep-sounds-generated-live/) explains, the world is built moment by moment as you listen, so the rain keeps varying in small ways as it builds. For a mind that loves patterns, there is no pattern here to solve — just a steady place to settle.
 
 ## How to try it tonight
 
@@ -65,7 +65,7 @@ Choose a steady sound with no words and nothing to follow — rain, brown noise,
 
 ### Do AuraFlow sounds loop?
 
-No. The sounds are generated live in your browser using the Web Audio API. There is no audio file and no loop point, so the sound does not restart or repeat — for a short wind-down or all night.
+No. The sounds are generated live in your browser using the Web Audio API, built moment by moment as you listen — for a short wind-down or all night.
 
 ### Can I play the sound all night?
 
