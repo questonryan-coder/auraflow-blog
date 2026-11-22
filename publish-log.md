@@ -16,3 +16,4 @@
 - 2026-11-19 | What Are Binaural Beats? A Plain-English Guide | https://blog.auraflowfocus.com/what-are-binaural-beats-a-plain-english-guide/ | IndexNow: 200
 - 2026-11-20 | Rain on a Tent, Rain on a Roof, Rain on Leaves: Why the Surface Matters | https://blog.auraflowfocus.com/rain-on-a-tent-rain-on-a-roof-rain-on-leaves-why-the-surface-matters/ | IndexNow: 200
 - 2026-11-21 | Building a Bedtime Routine That Actually Sticks | https://blog.auraflowfocus.com/building-a-bedtime-routine-that-actually-sticks/ | IndexNow: 200
+- 2026-11-22 | Looping vs Generated Sound: Why Your Brain Catches the Repeat | https://blog.auraflowfocus.com/looping-vs-generated-sound-why-your-brain-catches-the-repeat/ | IndexNow: 200
