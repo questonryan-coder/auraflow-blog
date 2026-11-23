@@ -4,49 +4,48 @@ The daily blog autopilot takes the FIRST unused topic, writes the post, and mark
 
 ## Queue (unused)
 
-1. Sounds for Meditation and Slow Breathing
-2. Mountain Wind Sounds: High-Altitude Calm
-3. How to Mix Your Own Sleep Soundscape, Layer by Layer
-4. Desert Night Sounds: Wind, Silence, and Space
-5. Snow Sounds: The Quietest Soundscape of All
-6. Train Sounds for Sleep: Why the Rhythm Works
-7. Deep-Sea and Underwater Sounds for Deep Sleep
-8. Morning Focus: Soundscapes That Start the Day Right
-9. Sleep Sounds for Shift Workers: Sleeping in Daylight
-10. Cafe Sounds for Focus: The Coffee-Shop Effect at Home
-11. A Field Guide to Night Sounds: Owls, Crickets, Distant Thunder
-12. Pink Noise vs White Noise for Sleep: A Closer Look
-13. Night Sounds Around the World: Cabins, Coasts, and Forests
-14. What Is Green Noise? The Nature-Forward Noise Color, Explained
-15. Fan Sounds for Sleep: Why a Steady Whoosh Works
-16. Airplane Cabin Noise for Sleep and Long Flights
-17. Library Ambience: The Quiet Focus Sound That Isn't Silent
-18. Masking Snoring With Sound: A Practical, Partner-Friendly Guide
-19. Wind Sounds for Sleep: From Gentle Breeze to Winter Gale
-20. City Rain: Urban Rain Sounds for Apartment Sleepers
-21. Jungle and Rainforest Sounds for Deep Relaxation
-22. River and Stream Sounds: Moving Water for Focus
-23. Waterfall Sounds for Sleep: Steady White Water, Explained
-24. Campfire Sounds: Outdoor Fire for Indoor Sleep
-25. Sounds for Power Naps: Short Sessions That Reset Your Afternoon
-26. ASMR vs Soundscapes: What's the Difference?
-27. Why Silence Feels So Loud at Night
-28. Hotel Room Sound Hacks: Sleeping Well Away From Home
-29. Coastal Night Sounds: Waves, Buoys, and a Distant Foghorn
-30. Dawn Chorus vs Evening Birds: Choosing Your Birdsong
-31. Soundscapes for Writers: Beating the Blank Page
-32. Pomodoro With Sound: Timing Focus Sessions That Stick
-33. Wind Chimes and Bells: Slow, Sparse Sounds for Unwinding
-34. Sleeping With the TV On? What to Play Instead
-35. Greenhouse Sounds: Water, Leaves, and Glasshouse Calm
-36. Focus Sounds for Long Drives and Commutes
-37. Hot Springs and Geothermal Sounds: Warm Water, Deep Quiet
-38. Sounds for Yoga and Slow Stretching
-39. Storm-Watching From Indoors: Cozy Coastal Storm Sounds
-40. Sounds for Puzzles, Crafts, and Slow Hobbies
-41. Harbor Night Sounds: Water on Stone, Ropes, and Moorings
-42. Too Quiet to Sleep? Finding Your Right Level of Sound
-43. New Year, Better Sleep: A Gentle Sound Routine for January## Used
+1. Mountain Wind Sounds: High-Altitude Calm
+2. How to Mix Your Own Sleep Soundscape, Layer by Layer
+3. Desert Night Sounds: Wind, Silence, and Space
+4. Snow Sounds: The Quietest Soundscape of All
+5. Train Sounds for Sleep: Why the Rhythm Works
+6. Deep-Sea and Underwater Sounds for Deep Sleep
+7. Morning Focus: Soundscapes That Start the Day Right
+8. Sleep Sounds for Shift Workers: Sleeping in Daylight
+9. Cafe Sounds for Focus: The Coffee-Shop Effect at Home
+10. A Field Guide to Night Sounds: Owls, Crickets, Distant Thunder
+11. Pink Noise vs White Noise for Sleep: A Closer Look
+12. Night Sounds Around the World: Cabins, Coasts, and Forests
+13. What Is Green Noise? The Nature-Forward Noise Color, Explained
+14. Fan Sounds for Sleep: Why a Steady Whoosh Works
+15. Airplane Cabin Noise for Sleep and Long Flights
+16. Library Ambience: The Quiet Focus Sound That Isn't Silent
+17. Masking Snoring With Sound: A Practical, Partner-Friendly Guide
+18. Wind Sounds for Sleep: From Gentle Breeze to Winter Gale
+19. City Rain: Urban Rain Sounds for Apartment Sleepers
+20. Jungle and Rainforest Sounds for Deep Relaxation
+21. River and Stream Sounds: Moving Water for Focus
+22. Waterfall Sounds for Sleep: Steady White Water, Explained
+23. Campfire Sounds: Outdoor Fire for Indoor Sleep
+24. Sounds for Power Naps: Short Sessions That Reset Your Afternoon
+25. ASMR vs Soundscapes: What's the Difference?
+26. Why Silence Feels So Loud at Night
+27. Hotel Room Sound Hacks: Sleeping Well Away From Home
+28. Coastal Night Sounds: Waves, Buoys, and a Distant Foghorn
+29. Dawn Chorus vs Evening Birds: Choosing Your Birdsong
+30. Soundscapes for Writers: Beating the Blank Page
+31. Pomodoro With Sound: Timing Focus Sessions That Stick
+32. Wind Chimes and Bells: Slow, Sparse Sounds for Unwinding
+33. Sleeping With the TV On? What to Play Instead
+34. Greenhouse Sounds: Water, Leaves, and Glasshouse Calm
+35. Focus Sounds for Long Drives and Commutes
+36. Hot Springs and Geothermal Sounds: Warm Water, Deep Quiet
+37. Sounds for Yoga and Slow Stretching
+38. Storm-Watching From Indoors: Cozy Coastal Storm Sounds
+39. Sounds for Puzzles, Crafts, and Slow Hobbies
+40. Harbor Night Sounds: Water on Stone, Ropes, and Moorings
+41. Too Quiet to Sleep? Finding Your Right Level of Sound
+42. New Year, Better Sleep: A Gentle Sound Routine for January## Used
 
 - 2026-11-05 launch set (8 posts): sleep-sounds-that-never-repeat, white-noise-vs-brown-noise-vs-pink-noise, how-to-stop-doomscrolling, rain-sounds-for-sleeping, brown-noise-for-sleep, pink-noise-for-sleep, forest-sounds-for-sleep, ocean-sounds-for-sleep
 - 2026-11-06: Thunderstorm Sounds for Sleep: Why Rain and Thunder Help You Drift Off — thunderstorm-sounds-for-sleep
@@ -66,3 +65,4 @@ The daily blog autopilot takes the FIRST unused topic, writes the post, and mark
 - 2026-11-20: Rain on a Tent, Rain on a Roof, Rain on Leaves: Why the Surface Matters — rain-on-a-tent-rain-on-a-roof-rain-on-leaves-why-the-surface-matters
 - 2026-11-21: Building a Bedtime Routine That Actually Sticks — building-a-bedtime-routine-that-actually-sticks
 - 2026-11-22: Looping vs Generated Sound: Why Your Brain Catches the Repeat — looping-vs-generated-sound-why-your-brain-catches-the-repeat
+- 2026-11-23: Sounds for Meditation and Slow Breathing — sounds-for-meditation-and-slow-breathing
