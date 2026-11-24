@@ -18,3 +18,4 @@
 - 2026-11-21 | Building a Bedtime Routine That Actually Sticks | https://blog.auraflowfocus.com/building-a-bedtime-routine-that-actually-sticks/ | IndexNow: 200
 - 2026-11-22 | Looping vs Generated Sound: Why Your Brain Catches the Repeat | https://blog.auraflowfocus.com/looping-vs-generated-sound-why-your-brain-catches-the-repeat/ | IndexNow: 200
 - 2026-11-23 | Sounds for Meditation and Slow Breathing | https://blog.auraflowfocus.com/sounds-for-meditation-and-slow-breathing/ | IndexNow: 200
+- 2026-11-24 | Mountain Wind Sounds: High-Altitude Calm | https://blog.auraflowfocus.com/mountain-wind-sounds-high-altitude-calm/ | IndexNow: 200
