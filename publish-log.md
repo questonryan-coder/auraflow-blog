@@ -20,3 +20,4 @@
 - 2026-11-23 | Sounds for Meditation and Slow Breathing | https://blog.auraflowfocus.com/sounds-for-meditation-and-slow-breathing/ | IndexNow: 200
 - 2026-11-24 | Mountain Wind Sounds: High-Altitude Calm | https://blog.auraflowfocus.com/mountain-wind-sounds-high-altitude-calm/ | IndexNow: 200
 - 2026-11-26 | How to Mix Your Own Sleep Soundscape, Layer by Layer | https://blog.auraflowfocus.com/how-to-mix-your-own-sleep-soundscape-layer-by-layer/ | IndexNow: 200
+- 2026-11-28 | Desert Night Sounds: Wind, Silence, and Space | https://blog.auraflowfocus.com/desert-night-sounds-wind-silence-and-space/ | IndexNow: 200
