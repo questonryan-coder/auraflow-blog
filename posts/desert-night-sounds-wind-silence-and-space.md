@@ -77,7 +77,7 @@ They can be a good fit if you like a spacious, plain backdrop. Kept low, the win
 
 ### How is a desert night different from mountain wind?
 
-Both are open and airy, but mountain wind moves through pines and over high ground, with a brighter, more textured rush. A desert night is drier and sparser, with longer stretches of near-silence and less detail in each gust.
+Both are open and airy, but mountain wind moves through pines and over high ground, with a brighter rush. A desert night is drier and sparser, with longer stretches of near-silence.
 
 ### Does the sound loop?
 
